@@ -19,3 +19,8 @@ Not entirely sure what I'll be building here yet, but at least my profile won't 
 ---
 
 > *"Getting vote-kicked out of Dust 2 long builds character."* 🎯
+
+---
+
+### 📊 GitHub Stats
+![Aladar71's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aladar71&show_icons=true&theme=radical)
