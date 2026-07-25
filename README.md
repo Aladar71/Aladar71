@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hello there! I'm taking my first steps into the GitHub world. 👋
 
-<!--
-**Aladar71/Aladar71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not entirely sure what I'll be building here yet, but at least my profile won't look empty! 😎
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Things I'm currently obsessing over:
+* 🎮 Surviving infested **CS** lobbies full of cheaters.
+* 🤖 Figuring out how to tell computers what to do.
+* 🚀 Making my profile look as cool as possible.
+
+---
+
+### 🛠️ Tech Stack & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+> *"Getting vote-kicked out of Dust 2 long builds character."* 🎯
